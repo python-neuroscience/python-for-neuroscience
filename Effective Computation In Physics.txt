@@ -1,0 +1,241 @@
+Chapter 1
+
+Introduction to the Command Line
+Navigating the Shell
+Manipulating Files and Directories
+Getting Help
+Permissions and Sharing
+The Environment
+Scripting with Bash
+Command Line Wrap-up
+
+Chapter 2
+
+Programming Blastoff with Python
+Running Python
+Comments
+Variables
+Special Variables
+Operators
+Strings
+Modules
+Python Wrap-up
+
+Chapter 3
+
+Essential Containers
+Lists
+Tuples
+Sets
+Dictionaries
+Containers Wrap-up
+
+Chapter 4
+
+Flow Control and Logic
+Conditionals
+Exceptions
+Loops
+Flow Control and Logic Wrap-up
+Chapter 5Operating with Functions
+Functions in Python
+Keyword Arguments
+Variable Number of Arguments
+Multiple Return Values
+Scope
+Recursion
+Lambdas
+Generators
+Decorators
+Function Wrap-up
+
+Chapter 6
+
+Classes and Objects
+Object Orientation
+Objects
+Classes
+Decorators and Metaclasses
+Object Orientation Wrap-up
+Getting It Done
+Chapter 7Analysis and Visualization
+Preparing Data
+Loading Data
+Cleaning and Munging Data
+Analysis
+Visualization
+Analysis and Visualization Wrap-up
+
+Chapter 8
+
+Regular Expressions
+Messy Magnetism
+Metacharacters on the Command Line
+grep, sed, and awk
+Finding Patterns in Files (grep)
+Finding and Replacing Patterns in Files (sed)
+Manipulating Columns of Data (awk)
+Python Regular Expressions
+Regular Expressions Wrap-up
+
+Chapter 9
+
+NumPy: Thinking in Arrays
+Arrays
+dtypes
+Slicing and Views
+Arithmetic and Broadcasting
+Fancy Indexing
+Masking
+Structured Arrays
+Universal Functions
+Other Valuable Functions
+NumPy Wrap-up
+
+Chapter 10
+
+Storing Data: Files and HDF5
+Files in Python
+An Aside About Computer Architecture
+Big Ideas in HDF5
+File Manipulations
+Hierarchy Layout
+Chunking
+In-Core and Out-of-Core Operations
+Querying
+Compression
+HDF5 Utilities
+Storing Data Wrap-up
+
+Chapter 11
+
+Important Data Structures in Physics
+Hash Tables
+Data Frames
+B-Trees
+K-D Trees
+Data Structures Wrap-up
+
+Chapter 12
+
+Performing in Parallel
+Scale and Scalability
+Problem Classification
+Example: N-Body Problem
+No Parallelism
+Threads
+Multiprocessing
+MPI
+Parallelism Wrap-up
+
+Chapter 13
+
+Deploying Software
+Deploying the Software Itself
+Deploying to the Cloud
+Deploying to Supercomputers
+Deployment Wrap-up
+Getting It Right
+
+Chapter 14
+
+Building Pipelines and Software
+make
+Building and Installing Software
+Installation
+Building Software and Pipelines Wrap-up
+
+Chapter 15
+
+Local Version Control
+What Is Version Control?
+Getting Started with Git
+Local Version Control with Git
+Version Conrol Wrap-Up
+
+Chapter 16
+
+Remote Version Control
+Repository Hosting (github.com)
+Creating a Repository on GitHub
+Declaring a Remote (git remote)
+Sending Commits to Remote Repositories (git push)
+Downloading a Repository (git clone)
+Fetching the Contents of a Remote (git fetch)
+Merging the Contents of a Remote (git merge)
+Pull = Fetch and Merge (git pull)
+Conflicts
+Resolving Conflicts
+Remote Version Control Wrap-up
+
+Chapter 17
+
+Debugging
+Encountering a Bug
+Print Statements
+Interactive Debugging
+Debugging in Python (pdb)
+Profiling
+Linting
+Debugging Wrap-up
+
+Chapter 18
+
+Testing
+Why Do We Test?
+When Should We Test?
+Where Should We Write Tests?
+What and How to Test?
+Running Tests
+Edge Cases
+Unit Tests
+Integration Tests
+Regression Tests
+Test Generators
+Test Coverage
+Test-Driven Development
+Testing Wrap-up
+Getting It Out There
+
+Chapter 19
+
+Documentation
+Why Prioritize Documentation?
+Types of Documentation
+Automation
+Documentation Wrap-up
+
+Chapter 20
+
+Publication
+Document Processing
+Text Editors
+Markup Languages
+Publication Wrap-up
+
+Chapter 21
+
+Collaboration
+Ticketing Systems
+Pull Requests and Code Reviews
+Collaboration Wrap-up
+
+Chapter 22
+
+Licenses, Ownership, and Copyright
+What Is Copyrightable?
+Right of First Publication
+What Is the Public Domain?
+Choosing a Software License
+Berkeley Software Distribution (BSD) License
+GNU General Public License (GPL)
+Creative Commons (CC)
+Other Licenses
+Changing the License
+Copyright Is Not Everything
+Licensing Wrap-up
+
+Chapter 23
+
+Further Musings on Computational Physics
+Where to Go from Here
