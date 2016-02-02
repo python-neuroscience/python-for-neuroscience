@@ -1,0 +1,59 @@
+Front-matter
+Copyright
+Preface to the Second Edition
+Preface to the First Edition
+About the Authors
+How to Use this Book
+
+Part I: Fundamentals
+
+* Chapter 1 - Introduction, Pages 3-6
+* Chapter 2 - MATLAB Tutorial, Pages 7-56
+* Chapter 3 - Mathematics and Statistics Tutorial, Pages 57-102
+* Chapter 4 - Programming Tutorial: Principles and Best Practices, Pages 103-139
+* Chapter 5 - Visualization and Documentation Tutorial, Pages 141-150
+
+Part II: Data Collection with MATLAB
+
+* Chapter 6 - Collecting Reaction Times I: Visual Search and Pop Out, Pages 153-164
+* Chapter 7 - Collecting Reaction Times II: Attention, Pages 165-171
+* Chapter 8 - Psychophysics, Pages 173-191
+* Chapter 9 - Psychophysics with GUIs, Pages 193-207
+* Chapter 10 - Signal Detection Theory, Pages 209-225
+
+Part III: Data Analysis with MATLAB
+
+* Chapter 11 - Frequency Analysis Part I: Fourier Decomposition, Pages 229-236
+* Chapter 12 - Frequency Analysis Part II: Nonstationary Signals and Spectrograms, Pages 237-243
+* Chapter 13 - Wavelets, Pages 245-252
+* Chapter 14 - Introduction to Phase Plane Analysis, Pages 253-262
+* Chapter 15 - Exploring the Fitzhugh-Nagumo Model, Pages 263-271
+* Chapter 16 - Convolution, Pages 273-285
+* Chapter 17 - Neural Data Analysis I: Encoding, Pages 287-296
+* Chapter 18 - Neural Data Analysis II: Binned Spike Data, Pages 297-303
+* Chapter 19 - Principal Components Analysis, Pages 305-315
+* Chapter 20 - Information Theory, Pages 317-327
+* Chapter 21 - Neural Decoding I: Discrete Variables, Pages 329-336
+* Chapter 22 - Neural Decoding II: Continuous Variables, Pages 337-348
+* Chapter 23 - Local Field Potentials, Pages 349-360
+* Chapter 24 - Functional Magnetic Resonance Imaging, Pages 361-379
+
+Part IV: Data Modeling with MATLAB
+
+* Chapter 25 - Voltage-Gated Ion Channels, Pages 383-393
+* Chapter 26 - Synaptic Transmission, Pages 395-402
+* Chapter 27 - Modeling a Single Neuron, Pages 403-410
+* Chapter 28 - Models of the Retina, Pages 411-417
+* Chapter 29 - Simplified Model of Spiking Neurons, Pages 419-424
+* Chapter 30 - Fitzhugh-Nagumo Model: Traveling Waves, Pages 425-438
+* Chapter 31 - Decision Theory, Pages 439-447
+* Chapter 32 - Markov Models, Pages 449-462
+* Chapter 33 - Modeling Spike Trains as a Poisson Process, Pages 463-471
+* Chapter 34 - Exploring the Wilson-Cowan Equations, Pages 473-480
+* Chapter 35 - Neural Networks as Forest Fires: Stochastic Neurodynamics, Pages 481-487
+* Chapter 36 - Neural Networks Part I: Unsupervised Learning, Pages 489-500
+* Chapter 37 - Neural Networks Part II: Supervised Learning, Pages 501-517
+
+Appendix A - Creating Publication-Quality Figures, Pages 519-526
+Appendix B - Relevant Toolboxes, Pages 527-532
+References, Pages 533-539
